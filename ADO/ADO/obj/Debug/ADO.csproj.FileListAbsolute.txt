@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ADO\ADO\bin\Debug\ADO.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ADO\ADO\bin\Debug\ADO.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ADO\ADO\bin\Debug\ADO.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ADO\ADO\obj\Debug\ADO.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ADO\ADO\obj\Debug\ADO.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ADO\ADO\obj\Debug\ADO.pdb

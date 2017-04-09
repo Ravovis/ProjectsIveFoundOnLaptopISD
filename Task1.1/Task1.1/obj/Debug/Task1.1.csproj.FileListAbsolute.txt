@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task1.1\Task1.1\bin\Debug\Task1.1.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task1.1\Task1.1\bin\Debug\Task1.1.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task1.1\Task1.1\bin\Debug\Task1.1.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task1.1\Task1.1\obj\Debug\Task1.1.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task1.1\Task1.1\obj\Debug\Task1.1.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Task1.1\Task1.1\obj\Debug\Task1.1.pdb

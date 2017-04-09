@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\10IO\10IO\bin\Debug\10IO.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\10IO\10IO\obj\Debug\10IO.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\10IO\10IO\bin\Debug\10IO.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\10IO\10IO\bin\Debug\10IO.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\10IO\10IO\obj\Debug\10IO.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\10IO\10IO\obj\Debug\10IO.pdb

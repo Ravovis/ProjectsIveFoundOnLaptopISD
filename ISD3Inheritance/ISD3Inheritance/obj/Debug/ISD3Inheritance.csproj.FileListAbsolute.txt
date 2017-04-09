@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ISD3Inheritance\ISD3Inheritance\bin\Debug\ISD3Inheritance.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ISD3Inheritance\ISD3Inheritance\bin\Debug\ISD3Inheritance.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ISD3Inheritance\ISD3Inheritance\bin\Debug\ISD3Inheritance.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ISD3Inheritance\ISD3Inheritance\obj\Debug\ISD3Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ISD3Inheritance\ISD3Inheritance\obj\Debug\ISD3Inheritance.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\ISD3Inheritance\ISD3Inheritance\obj\Debug\ISD3Inheritance.pdb

@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Abstractions4HW\Abstractions4HW\bin\Debug\Abstractions4HW.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Abstractions4HW\Abstractions4HW\bin\Debug\Abstractions4HW.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Abstractions4HW\Abstractions4HW\bin\Debug\Abstractions4HW.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Abstractions4HW\Abstractions4HW\obj\Debug\Abstractions4HW.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Abstractions4HW\Abstractions4HW\obj\Debug\Abstractions4HW.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Abstractions4HW\Abstractions4HW\obj\Debug\Abstractions4HW.pdb

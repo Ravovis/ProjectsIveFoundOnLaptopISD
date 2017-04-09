@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Static5HW\Static5HW\bin\Debug\Static5HW.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Static5HW\Static5HW\bin\Debug\Static5HW.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Static5HW\Static5HW\bin\Debug\Static5HW.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Static5HW\Static5HW\obj\Debug\Static5HW.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Static5HW\Static5HW\obj\Debug\Static5HW.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\Static5HW\Static5HW\obj\Debug\Static5HW.pdb

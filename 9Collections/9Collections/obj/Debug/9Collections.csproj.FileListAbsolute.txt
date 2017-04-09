@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\9Collections\9Collections\bin\Debug\9Collections.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\9Collections\9Collections\bin\Debug\9Collections.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\9Collections\9Collections\bin\Debug\9Collections.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\9Collections\9Collections\obj\Debug\9Collections.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\9Collections\9Collections\obj\Debug\9Collections.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\9Collections\9Collections\obj\Debug\9Collections.pdb

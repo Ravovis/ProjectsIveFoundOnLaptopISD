@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\7delegats\7delegats\bin\Debug\7delegats.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\7delegats\7delegats\bin\Debug\7delegats.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\7delegats\7delegats\bin\Debug\7delegats.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\7delegats\7delegats\obj\Debug\7delegats.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\7delegats\7delegats\obj\Debug\7delegats.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\7delegats\7delegats\obj\Debug\7delegats.pdb

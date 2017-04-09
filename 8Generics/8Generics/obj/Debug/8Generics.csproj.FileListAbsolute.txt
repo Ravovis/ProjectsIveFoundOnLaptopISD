@@ -1,0 +1,6 @@
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\8Generics\8Generics\bin\Debug\8Generics.exe.config
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\8Generics\8Generics\bin\Debug\8Generics.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\8Generics\8Generics\bin\Debug\8Generics.pdb
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\8Generics\8Generics\obj\Debug\8Generics.csprojResolveAssemblyReference.cache
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\8Generics\8Generics\obj\Debug\8Generics.exe
+C:\Users\root\Documents\Visual Studio 2015\Projects\ISD\before Start\8Generics\8Generics\obj\Debug\8Generics.pdb
